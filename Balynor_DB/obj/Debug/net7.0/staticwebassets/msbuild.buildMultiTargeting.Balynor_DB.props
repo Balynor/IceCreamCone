@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Balynor_DB.props" />
+</Project>
