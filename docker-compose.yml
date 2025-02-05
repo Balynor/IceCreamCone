@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  balynor_db:
+    image: ${DOCKER_REGISTRY-}balynordb
+    build:
+      context: .
+      dockerfile: Balynor_DB/Dockerfile
