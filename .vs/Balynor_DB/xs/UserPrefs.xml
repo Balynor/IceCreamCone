@@ -1,20 +1,22 @@
-﻿<Properties StartupConfiguration="{4C2CF7E4-CAAA-4B0C-B7F4-17CE1449CD26}|https">
-  <MonoDevelop.Ide.ItemProperties.Balynor__DB PreferredExecutionTarget="/Applications/Google Chrome.app" />
+﻿<Properties StartupConfiguration="{D27C9E7F-C0BE-4B47-B79E-52A747219631}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Balynor_DB/Program.cs">
     <Files>
-      <File FileName="Balynor_DB/Data/AppDbContext.cs" Line="17" Column="1" />
-      <File FileName="Balynor_DB/Controllers/WeatherForecastController.cs" Line="8" Column="9" />
-      <File FileName="Balynor_DB/Controllers/DataController.cs" Line="27" Column="1" />
-      <File FileName="Balynor_DB/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="Balynor_DB/appsettings.json" Line="4" Column="5" />
-      <File FileName="Balynor_DB/Models/DataModel.cs" Line="1" Column="1" />
+      <File FileName="Balynor_DB/Data/AppDbContext.cs" />
+      <File FileName="Balynor_DB/Controllers/WeatherForecastController.cs" />
+      <File FileName="Balynor_DB/Controllers/DataController.cs" />
+      <File FileName="Balynor_DB/WeatherForecast.cs" />
+      <File FileName="Balynor_DB/appsettings.json" />
+      <File FileName="Balynor_DB/Models/DataModel.cs" />
       <File FileName="Balynor_DB/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Balynor_DB" expanded="True">
-            <Node name="Balynor_DB" expanded="True">
+            <Node name="Balynor_DB" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
@@ -22,17 +24,13 @@
               <Node name="Data" expanded="True" />
               <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Balynor__DB PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

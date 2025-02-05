@@ -84,7 +84,4 @@
 /Users/mamali/Projects/Balynor_DB/Balynor_DB/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/mamali/Projects/Balynor_DB/Balynor_DB/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/mamali/Projects/Balynor_DB/Balynor_DB/bin/Debug/net7.0/System.CodeDom.dll
-/Users/mamali/Projects/Balynor_DB/Balynor_DB/bin/Debug/net7.0/Balynor_DB.staticwebassets.endpoints.json
-/Users/mamali/Projects/Balynor_DB/Balynor_DB/obj/Debug/net7.0/staticwebassets.build.endpoints.json
-/Users/mamali/Projects/Balynor_DB/Balynor_DB/obj/Debug/net7.0/staticwebassets/msbuild.Balynor_DB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-/Users/mamali/projects/balynor_DB/Balynor_DB/obj/Debug/net7.0/Balynor_DB.csproj.Up2Date
+/Users/mamali/Projects/Balynor_DB/Balynor_DB/obj/Debug/net7.0/Balynor_DB.csproj.CopyComplete

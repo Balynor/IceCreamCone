@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "UILFUyTqjxYtaQkPogB9IoIMsIviSr+M1NH3AbqyaOE=",
+  "Hash": "Q8PHeMvbAG2U/ObuS4D0BUTum/U7E9bQQdhHKIxqoX4=",
   "Source": "Balynor_DB",
   "BasePath": "_content/Balynor_DB",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
